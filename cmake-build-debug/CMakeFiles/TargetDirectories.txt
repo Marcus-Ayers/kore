@@ -1,0 +1,8 @@
+/Users/marcusayers/Desktop/Kore/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcusayers/Desktop/Kore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/marcusayers/Desktop/Kore/cmake-build-debug/Engine/CMakeFiles/Engine.dir
+/Users/marcusayers/Desktop/Kore/cmake-build-debug/Engine/CMakeFiles/edit_cache.dir
+/Users/marcusayers/Desktop/Kore/cmake-build-debug/Engine/CMakeFiles/rebuild_cache.dir
+/Users/marcusayers/Desktop/Kore/cmake-build-debug/Sandbox/CMakeFiles/Sandbox.dir
+/Users/marcusayers/Desktop/Kore/cmake-build-debug/Sandbox/CMakeFiles/edit_cache.dir
+/Users/marcusayers/Desktop/Kore/cmake-build-debug/Sandbox/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+# ninja log v6
+3	21	1733606329946301454	Sandbox/CMakeFiles/Sandbox.dir/src/application.cpp.o	c6b36276f3c22ce4
+2	39	1733612639225574928	bin/Sandbox	496dab0d61fce431
+6	619	1733612638291167317	Engine/CMakeFiles/Engine.dir/src/Rendering/Renderer.cpp.o	69c3ff39fb1466fa
+619	744	1733612638904731749	Engine/libEngine.dylib	dfdcba00e98cf82b
+22	802	1733598691481607940	Engine/CMakeFiles/Engine.dir/src/test.cpp.o	ee390f35356e5866
+2	93	1733620522497823699	build.ninja	b6d5e3a3014e9dfb
